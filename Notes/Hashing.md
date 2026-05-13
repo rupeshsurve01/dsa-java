@@ -1,0 +1,2 @@
+Hashing:
+    - Prestoring & Fetching
