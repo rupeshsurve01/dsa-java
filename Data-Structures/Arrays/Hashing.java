@@ -20,8 +20,10 @@ public class Hashing {
 
         // precompute:
         int[] hash = new int[13];
+        
         // for (int i = 0; i < n; i++) {
         //     hash[arr[i]] += 1;
+                hash[arr[i]] = hash[arr[i]] + 1;
         // }
 
         for(int j = 0 ; j < 13; j++){
