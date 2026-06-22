@@ -24,6 +24,7 @@ Solve 300+ DSA problems consistently.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/rupeshsurve01/dsa-journey/tree/main/0015-3sum/) | Medium |
 | [0229-majority-element-ii](https://github.com/rupeshsurve01/dsa-journey/tree/main/0229-majority-element-ii/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rupeshsurve01/dsa-journey/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Hash Table
@@ -33,9 +34,14 @@ Solve 300+ DSA problems consistently.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/rupeshsurve01/dsa-journey/tree/main/0015-3sum/) | Medium |
 | [0229-majority-element-ii](https://github.com/rupeshsurve01/dsa-journey/tree/main/0229-majority-element-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/rupeshsurve01/dsa-journey/tree/main/0229-majority-element-ii/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/rupeshsurve01/dsa-journey/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
