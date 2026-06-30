@@ -28,6 +28,7 @@ Solve 300+ DSA problems consistently.
 | [0088-merge-sorted-array](https://github.com/rupeshsurve01/dsa-journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/rupeshsurve01/dsa-journey/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0229-majority-element-ii](https://github.com/rupeshsurve01/dsa-journey/tree/main/0229-majority-element-ii/) | Medium |
+| [0704-binary-search](https://github.com/rupeshsurve01/dsa-journey/tree/main/0704-binary-search/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rupeshsurve01/dsa-journey/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -52,4 +53,8 @@ Solve 300+ DSA problems consistently.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/rupeshsurve01/dsa-journey/tree/main/0152-maximum-product-subarray/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/rupeshsurve01/dsa-journey/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
